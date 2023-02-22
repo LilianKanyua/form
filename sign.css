@@ -1,0 +1,18 @@
+.form{
+    margin-left: 70%;
+}
+#heading{
+    color:blue;
+}
+#paragraph{
+    text-align: left;
+}
+#create{
+    background-color: blue;
+    text-align: center;
+    color:white;
+}
+.img{
+    size: 20px 20px;
+    float:left;
+}
